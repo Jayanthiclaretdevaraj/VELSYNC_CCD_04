@@ -31,9 +31,9 @@ The API accepts an image file via HTTP POST request and stores it in an Amazon S
 ## Proof of Execution
 Below are the outputs showing successful execution of Task 04:
 
-![Postman Output](TASK_4_output1.png)  
-![API Gateway Deployment](TASK_4_output2.png)  
-![File Uploaded to S3](TASK_4_output3.png)
+![Postman Output]([TASK 4]output1.png)  
+![API Gateway Deployment]([TASK 4]output 2.png)  
+![File Uploaded to S3]([TASK 4]output 3.png)
 
 ## Result
 The serverless API was successfully deployed and tested.
